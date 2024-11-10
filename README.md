@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying at Nha Trang University
 - 🌱 I can use Java, Spring Boot, C#, ASP.NET MVC, Python, Bootstrap,...
 - 🤖 I’m currently learning Machine Learning and Deep Learning
-- 💬 I am currently a 4th year student.
+- 💬 I'm currently a 4th year student
 - 📫 Contact me: vodaihiep209@gmail.com
 
 
