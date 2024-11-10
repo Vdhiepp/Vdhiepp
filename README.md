@@ -16,7 +16,9 @@
 
 # 📊GitHub Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vdhiepp&theme=radical&show_icons=true)
+*   Top languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vdhiepp)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vdhiepp&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻Tech Stack
