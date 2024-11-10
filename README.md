@@ -23,19 +23,19 @@
 <a href="https://github.com/Vdhiepp/63132946_Web2#readme">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=63132946_Web2&cache_seconds=86400&theme=merko"" />
 </a>
-<a href="https://github.com/Vdhiepp/DOAN_Web2/">
+<a href="https://github.com/Vdhiepp/DOAN_Web2#readme">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=DOAN_Web2&cache_seconds=86400&theme=radical"" />
 </a>
-<a href="https://github.com/Vdhiepp/ThucTapIVS/">
+<a href="https://github.com/Vdhiepp/ThucTapIVS#readme">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=ThucTapIVS&cache_seconds=86400&theme=tokyonight"" />
 </a>
-<a href="https://github.com/Vdhiepp/JavaDev/">
+<a href="https://github.com/Vdhiepp/JavaDev#readme">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=JavaDev&cache_seconds=86400&theme=blue-green"" />
 </a>
-<a href="https://github.com/Vdhiepp/Web1/">
+<a href="https://github.com/Vdhiepp/Web1#readme">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=Web1&cache_seconds=86400&theme=algolia"" />
 </a>
-<a href="https://github.com/Vdhiepp/63CLC2-MobiDev/">
+<a href="https://github.com/Vdhiepp/63CLC2-MobiDev#readme">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=63CLC2-MobiDev&cache_seconds=86400&theme=calm_pink"" />
 </a>
 
