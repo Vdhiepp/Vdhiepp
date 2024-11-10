@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=JavaDev&cache_seconds=86400&theme=blue-green"" />
 </a>
 <a href="https://github.com/Vdhiepp/63132946_Web2/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=Web1&cache_seconds=86400&theme=agolia"" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=Web1&cache_seconds=86400&theme=algolia"" />
 </a>
 <a href="https://github.com/Vdhiepp/63132946_Web2/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=63CLC2-MobiDev&cache_seconds=86400&theme=calm_pink"" />
