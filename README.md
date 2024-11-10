@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Vdhiepp/63132946_Web2/">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Vdhiepp&repo=github-readme-stats&cache_seconds=86400&theme=calm_pink" />
+    <img align="center" src="https://github-readme-stats.Vdhiepp.vercel.app/api/pin/?username=anuraghazra1&repo=github-readme-stats&cache_seconds=86400&theme=calm_pink" />
 </a>
 
 
