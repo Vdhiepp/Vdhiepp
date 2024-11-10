@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/v.dhiepp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/v.dhiepp_/) 
 
 # 📊GitHub Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vdhiepp&theme=dark&show_icons=true) <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vdhiepp&theme=radical&show_icons=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vdhiepp&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vdhiepp&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
