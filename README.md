@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=calm_pink" />
 </a>
 <a href="https://github.com/Vdhiepp/63132946_Web2/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=63132946_Web2&theme=dark&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vdhiepp&repo=63132946_Web2&cache_seconds=86400&theme=calm_pink"" />
 </a>
 
 ## 🌐Socials
